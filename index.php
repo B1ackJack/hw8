@@ -1,5 +1,4 @@
-/* This is the intial login page landing 
- *
- * Ok we will be editing this file
+/*
+ * This is the initial login page landing
  *
  */
