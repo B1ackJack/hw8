@@ -1,34 +1,24 @@
 <?php
 
-class Users
+class User
 {
-    public function getUser()
-    {
+    public function get(){
 
     }
 
-    public function getAllUsers()
-    {
+    public function register(){
 
     }
 
-    public function register()
-    {
+    public function create(){
 
     }
 
-    public function create()
-    {
+    public function update(){
 
     }
 
-    public function update()
-    {
-
-    }
-
-    public function delete()
-    {
+    public function delete(){
 
     }
 
