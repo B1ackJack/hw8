@@ -2,6 +2,7 @@
 /*
  * List of users table
  */
+
 require "config.php";
 
 // Create connection
